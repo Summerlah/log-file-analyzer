@@ -36,5 +36,8 @@ A Python-based command-line tool that analyzes application or server log files t
 
 python analyzer.py sample.log
 
+## Sample Output
+
+![Log Analysis Output](analyzer-output.png)
 
 
