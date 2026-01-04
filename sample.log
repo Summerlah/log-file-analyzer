@@ -1,0 +1,8 @@
+INFO 2026-01-02 Server started
+WARNING 2026-01-02 Disk usage at 78%
+ERROR 2026-01-02 Database connection failed
+INFO 2026-01-02 User login successful
+ERROR 2026-01-02 Database connection failed
+WARNING 2026-01-02 High memory usage
+ERROR 2026-01-02 Timeout while connecting to service
+INFO 2026-01-02 Scheduled task completed
