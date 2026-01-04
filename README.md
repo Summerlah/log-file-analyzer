@@ -32,8 +32,6 @@ A Python-based command-line tool that analyzes application or server log files t
 
 \## How to Run
 
-```bash
-
 python analyzer.py sample.log
 
 ## Sample Output
